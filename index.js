@@ -71,4 +71,5 @@ app.use((err, req, res, next) => {
 
 app.listen(3300, () => {
   console.log("App started on port 3300");
+  mscnnx;
 });
